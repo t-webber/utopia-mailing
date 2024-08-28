@@ -1,0 +1,9 @@
+target
+*./
+build
+*.txt
+*.pdf
+*cred*
+mail/
+*lock*
+*.json
